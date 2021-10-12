@@ -5,9 +5,10 @@ End goal is to make an iOS 9 themed & functional calculator.
 
 Working copy is hosted [here](https://calculator.epik.ml/)
 
-I would really appreciate people contributing :>
+*I would really appreciate people contributing :>*
 
 
-###Todo
+### Todo
 -Dynamicly changing screen size
+
 -Keyboard number input ability
